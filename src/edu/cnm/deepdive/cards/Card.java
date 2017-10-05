@@ -3,7 +3,7 @@ package edu.cnm.deepdive.cards;
 public class Card
     implements Comparable<Card> {
 
-
+  // constructor
   public final Suit suit;
   public final Rank rank;
 
